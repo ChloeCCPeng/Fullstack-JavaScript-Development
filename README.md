@@ -1,3 +1,3 @@
-# Fullstack-JavaScript-Deveelopment
+# Fullstack-JavaScript-Development
 
 Instructor: Samer Buna
