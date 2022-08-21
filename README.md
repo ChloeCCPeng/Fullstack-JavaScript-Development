@@ -1,6 +1,6 @@
 # Fullstack-JavaScript-Development
 
-Instructor: Samer Buna
+
 Learning objectives
 - Using modern JavaScript features
 Configuring webpack and Babel
